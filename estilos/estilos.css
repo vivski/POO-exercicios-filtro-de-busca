@@ -1,0 +1,27 @@
+html {
+    background-color: rgb(12, 11, 12);
+    color: rgb(248, 244, 243);
+}
+
+img {
+    width: 300px;
+    border-style: dashed;
+    padding: 1cm;
+    color: #c10d0d
+}
+
+
+input[type="text"] {
+    background-color: rgb(231, 218, 220);
+    color: rgb(230, 59, 59);
+    border-style: dotted;
+    border-width: 6px;
+    border-color: rgb(20, 136, 88);
+
+}
+
+body {
+    font-family: 'Abel';
+    font-size: 12px;
+
+} 
